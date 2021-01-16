@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Mov-Flex/static/css/main.df1233d5.chunk.css",
+    "main.js": "/Mov-Flex/static/js/main.42605f6d.chunk.js",
+    "main.js.map": "/Mov-Flex/static/js/main.42605f6d.chunk.js.map",
+    "runtime-main.js": "/Mov-Flex/static/js/runtime-main.069648f3.js",
+    "runtime-main.js.map": "/Mov-Flex/static/js/runtime-main.069648f3.js.map",
+    "static/js/2.3d43dcec.chunk.js": "/Mov-Flex/static/js/2.3d43dcec.chunk.js",
+    "static/js/2.3d43dcec.chunk.js.map": "/Mov-Flex/static/js/2.3d43dcec.chunk.js.map",
+    "static/js/3.73dbc490.chunk.js": "/Mov-Flex/static/js/3.73dbc490.chunk.js",
+    "static/js/3.73dbc490.chunk.js.map": "/Mov-Flex/static/js/3.73dbc490.chunk.js.map",
+    "index.html": "/Mov-Flex/index.html",
+    "static/css/main.df1233d5.chunk.css.map": "/Mov-Flex/static/css/main.df1233d5.chunk.css.map",
+    "static/js/2.3d43dcec.chunk.js.LICENSE.txt": "/Mov-Flex/static/js/2.3d43dcec.chunk.js.LICENSE.txt",
+    "static/media/popcorn.7e262014.svg": "/Mov-Flex/static/media/popcorn.7e262014.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.069648f3.js",
+    "static/js/2.3d43dcec.chunk.js",
+    "static/css/main.df1233d5.chunk.css",
+    "static/js/main.42605f6d.chunk.js"
+  ]
+}
